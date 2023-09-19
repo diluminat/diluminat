@@ -8,4 +8,4 @@
 >
 > Escolas: *Alura* e discover-*rocketseat*
 >
-> Formações *Alura*: A partir do zero iniciante em programação
+> Formações *Alura*: A partir do zero iniciante em programação e certificado [rocketseat](https://app.rocketseat.com.br/certificates/22e73632-d45e-4a22-b5b4-a319b1440d82)
